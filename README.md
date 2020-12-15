@@ -1,5 +1,6 @@
 ## Hi 👋
 I'm Bog, originally from UKR (🇺🇦) but spent most of my life in Spain (🇪🇸). Right now I'm focusing on JS/React but later I want to dive more into ASP.NET and do more Machine Learning.
+Additionally I also enjoy programming challenges like the ones at [CodeWars](https://www.codewars.com/users/bgdnvk)
 ## 🎓 Certs 🎓
 #### Nanodegrees
 [Front End Developer](https://confirm.udacity.com/6V3TCRCC)
