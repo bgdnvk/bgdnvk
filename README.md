@@ -19,6 +19,8 @@ Additionally I also enjoy programming challenges like the ones at [CodeWars](htt
 
 [Front End Libraries](https://www.freecodecamp.org/learn/front-end-libraries/) 
 
+Msc. Web Dev focused on Java Back End
+
 
 ## 💻 Fun 💻
 [HackerRank](https://www.hackerrank.com/bnovykov)
