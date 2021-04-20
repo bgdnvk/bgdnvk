@@ -1,6 +1,6 @@
 ## 👋
-I'm Bog, originally from Ukraine but spent most of my life in Spain. Right now I'm focusing on Java and JS+React but later I want to dive more into .NET, Flutter and of course do more Machine Learning.
-Additionally I also enjoy programming challenges like the ones at [CodeWars](https://www.codewars.com/users/bgdnvk)
+I'm Bog, originally from Ukraine but spent most of my life in Spain. Full Stack dev trying to understand computers, working on my masters right now and trying not to fall for the meme frameworks. My interests are: web dev, x-platform, one liners outside of production and ML.
+Additionally I also do stuff like [CodeWars](https://www.codewars.com/users/bgdnvk)
 ## 🎓 Certs 🎓
 #### Nanodegrees
 [Front End Developer](https://confirm.udacity.com/6V3TCRCC)
@@ -15,11 +15,11 @@ Additionally I also enjoy programming challenges like the ones at [CodeWars](htt
 [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/bgdnvk/javascript-algorithms-and-data-structures) 
 
 ### Working on
+Msc. Web Dev focused on Java Back End @ UNED
+
 [Full Stack Open](https://fullstackopen.com/en/) 
 
 [Front End Libraries](https://www.freecodecamp.org/learn/front-end-libraries/) 
-
-Msc. Web Dev focused on Java Back End @ UNED
 
 
 ## 💻 Fun 💻
