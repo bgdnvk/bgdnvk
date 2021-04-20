@@ -1,6 +1,6 @@
 ## 👋
 I'm Bog, originally from Ukraine but spent most of my life in Spain. Full Stack dev trying to understand computers, working on my masters right now and trying not to fall for the meme frameworks. My interests are: web dev, x-platform, one liners outside of production and ML.
-Additionally I also do stuff like [CodeWars](https://www.codewars.com/users/bgdnvk) and I'm involved in [Hope](http://proyectohope.centromedicodespierta.es/) mostly doing Java stuff.
+Additionally I also do stuff like [CodeWars](https://www.codewars.com/users/bgdnvk) and I'm involved in [Hope](http://proyectohope.centromedicodespierta.es/) mostly doing Java.
 ## 🎓 Certs 🎓
 #### Nanodegrees
 [Front End Developer](https://confirm.udacity.com/6V3TCRCC)
@@ -16,6 +16,8 @@ Additionally I also do stuff like [CodeWars](https://www.codewars.com/users/bgdn
 
 ### Working on
 Msc. Web Dev focused on Java Back End @ UNED
+
+Java 11 Cert
 
 [Full Stack Open](https://fullstackopen.com/en/) 
 
