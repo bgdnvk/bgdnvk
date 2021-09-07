@@ -2,7 +2,7 @@
 I'm Bog, originally from Ukraine but spent most of my life in Spain. Full Stack dev trying to understand computers, finishing my masters right now and trying not to fall for the meme frameworks or the hype (Svelte and Rust? jk). My interests are: web dev, x-platform, one liners outside of production, hating on OOP (jk) and ML.  
 Additionally I also do stuff like [CodeWars](https://www.codewars.com/users/bgdnvk) and I'm involved in [Hope](http://proyectohope.centromedicodespierta.es/) mostly doing Java.  
 
-Some personal info: used to spend a lot of time in Denmark prior to Covid, almost moved there and to another scandi country but the weather is too good in Spain. As a hobby right now I'm helping a friend set up a GTA server: lua scripting and a bit of devops. 
+Some personal info: used to spend a lot of time in Denmark prior to Covid, almost moved there and to another scandi country but the weather is too good in Spain.
 ## 🎓 Certs 🎓
 #### Nanodegrees
 [Front End Developer](https://confirm.udacity.com/6V3TCRCC)
