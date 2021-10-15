@@ -20,8 +20,6 @@ Some personal info: used to spend a lot of time in Denmark prior to Covid, almos
 ### Working on
 Msc. Web Dev focused on Java Back End @ UNED
 
-Java 11 Cert
-
 [Full Stack Open](https://fullstackopen.com/en/) 
 
 [Front End Libraries](https://www.freecodecamp.org/learn/front-end-libraries/) 
