@@ -13,12 +13,15 @@ Some personal info: used to spend a lot of time in Denmark prior to Covid, almos
 [Android Developer](https://confirm.udacity.com/RA9QAPDU) 
 
 #### Others
+Msc. Web Dev focused on Java Back End @ UNED
+
+Google Cloud Platform: Architecting with Google Compute Engine @ Coursera
+
 [Responsive Web Design](https://www.freecodecamp.org/certification/bgdnvk/responsive-web-design) 
 
 [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/bgdnvk/javascript-algorithms-and-data-structures) 
 
 ### Working on
-Msc. Web Dev focused on Java Back End @ UNED
 
 [Full Stack Open](https://fullstackopen.com/en/) 
 
