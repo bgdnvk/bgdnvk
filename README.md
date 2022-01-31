@@ -1,7 +1,9 @@
 ## 👋
-I'm Bog, originally from Ukraine but spent most of my life in Spain. I'm a Full Stack developer who also acted as a DevOps Engineer and Scrum Master. Currently working on my own projects - my interests include cross platform development, web development and arguing on twitter if javascript is better than python. In the future I'd like to dive more into ML, cybersecurity and participate in open source.  
+I'm Bog, originally from Ukraine but spent most of my life in Spain. I'm a Full Stack developer who also acted as a DevOps Engineer and Scrum Master. Currently working on my own projects - my interests include cross platform development, web development (front n back) and arguing on twitter if javascript is better than python. In the future I'd like to dive more into ML and cyber security, maybe more a bit of Open Source as well.  
 
-Additionally I also do stuff like [CodeWars](https://www.codewars.com/users/bgdnvk) and I'm involved in [Hope](http://proyectohope.centromedicodespierta.es/).  
+Additionally I also do stuff like [CodeWars](https://www.codewars.com/users/bgdnvk) and I'm involved in [Hope](http://proyectohope.centromedicodespierta.es/).
+
+Currently working on my [blog](https://bognov.tech/) as well.
 
 Some personal info: used to spend a lot of time in Denmark prior to Covid, almost moved there and to another scandi country but the weather is too good in Spain.
 ## 🎓 Certs 🎓
