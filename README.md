@@ -3,7 +3,7 @@ I'm Bog, originally from Ukraine but spent most of my life in Spain. I'm a Full 
 
 Additionally I also do stuff like [CodeWars](https://www.codewars.com/users/bgdnvk) and I'm involved in [Hope](http://proyectohope.centromedicodespierta.es/).
 
-Currently working on my [blog](https://bognov.tech/) as well.
+Slowly working on my [BLOG](https://bognov.tech/)
 
 Some personal info: used to spend a lot of time in Denmark prior to Covid, almost moved there and to another scandi country but the weather is too good in Spain.
 ## 🎓 Certs 🎓
