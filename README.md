@@ -7,7 +7,10 @@ Slowly working on my [BLOG](https://bognov.tech/) as well.
 
 Since the invasion of Russia in Ukraine I've been building an organization "AyudaUcrania" to spread awareness on how to help affected citizens and refugees. [If you know Spanish have a look.](https://ayudaucrania.org/)
 
-Some personal info: used to spend a lot of time in Denmark prior to Covid, almost moved there and to another scandi country but the weather is too good in Spain. I'm open to travel or work from anywhere.
+More personal info: used to spend a lot of time in Denmark prior to Covid, almost moved there and to another scandi country but the weather is too good in Spain. I'm open to travel or work from anywhere. 
+
+Before getting fully into the tech path I was doing a degree in philosophy, hopefully in the future I will have enough time to finish it.
+I'm very curious, this means I enjoy talking with different people about different topics, as this broadens my horizons, so feel free to reach me on [Twitter](https://twitter.com/tekbog) or [LinkedIn](https://www.linkedin.com/in/bogdan-novykov/).
 ## 🎓 Certs 🎓
 #### Nanodegrees
 [Front End Developer](https://confirm.udacity.com/6V3TCRCC)
