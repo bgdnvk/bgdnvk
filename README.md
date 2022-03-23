@@ -5,7 +5,7 @@ Additionally I also do stuff like [CodeWars](https://www.codewars.com/users/bgdn
 
 Slowly working on my [BLOG](https://bognov.tech/) as well.
 
-Since the invasion of Russia in Ukraine I've been building an organization "AyudaUcrania" to spread awareness on how to help affected citizens and refugees. [If you know Spanish have a look.](https://ayudaucrania.org/)
+Since the invasion of Russia in Ukraine I've been building an organization "AyudaUcrania" to spread awareness on how to help affected citizens and refugees. [If you know Spanish have a look.](https://ayudaucrania.org/) So far we are 4 people now.
 
 More personal info: used to spend a lot of time in Denmark prior to Covid, almost moved there and to another scandi country but the weather is too good in Spain. I'm open to travel or work from anywhere. 
 
