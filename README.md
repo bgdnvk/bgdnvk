@@ -36,13 +36,17 @@ Google Cloud Platform: Architecting with Google Compute Engine @ Coursera
 
 
 ## 💻 Fun 💻
-[HackerRank](https://www.hackerrank.com/bnovykov)
+[HackerRank](https://www.hackerrank.com/bnovykov) 
+
+[LeetCode](https://leetcode.com/bgdnvk/)
+
+[CodeWars](https://www.codewars.com/users/bgdnvk)  
 
 <a>
  <img align="center" src="https://www.codewars.com/users/bgdnvk/badges/large" />
 </a>
 
-[LeetCode](https://leetcode.com/bgdnvk/)
+
 
 
 <!--
