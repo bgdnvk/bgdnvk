@@ -1,9 +1,39 @@
-## 👋 🇺🇦
-I'm Bog, originally from Ukraine 🇺🇦 but spent most of my life in Spain. I'm a Full Stack developer who also acted as a DevOps Engineer and Scrum Master. Currently working on my own projects - my interests include cross platform development and web development. In the future I'd like to dive further into ML and cyber security.
+# Blog: [📖 bognov.tech 📖](https://bognov.tech/)
+## TypeScript + JavaScript 
+#### WIP - [Pokédex web app w/ TS, React, Vite and TailwindCSS](https://github.com/bgdnvk/pokedex-ts-react-vite-tailwind)
+#### [NodeJS auth example w/ JWT and cookies: Express + Mongoose](https://github.com/bgdnvk/nodejs-auth) check -> [📖 blog post 📖](https://bognov.tech/nodejs-auth-jwt-cookies-express-mongoose-and-more)  
+#### [CodeWars, LeetCode and HackerRank solutions](https://github.com/bgdnvk/codewars)  
+#### [LeetCode arrays card solutions](https://github.com/bgdnvk/leetcode-arrays-101) check -> [📖 blog post 📖](https://bognov.tech/javascript-arrays-101-tips-and-tricks-ft-leetcode)  
+#### WIP - [Sorting algorithms for blog post](https://github.com/bgdnvk/algorithms-js)  
+#### [📖 MERN blog series 📖](https://bognov.tech/series/mern-stack)
+
+## Go
+#### [Mini Twitter Clone](https://github.com/bgdnvk/mini-twitter-clone) check -> [📖 blog post 📖](https://bognov.tech/introduction-to-golang-build-a-mini-twitter-clone)
+
+## Java + SpringBoot
+#### OSS stalled project and needs refactoring - [YouTube Crawler w/ SpringBoot](https://github.com/bgdnvk/vacflixbackend)
+#### [Excel Parser and scrapper w/ Java n JSoup](https://github.com/bgdnvk/hope)  
+#### [Masters exercises in Spanish](https://github.com/bgdnvk/msc-java-exercises)
+#### [Web Scrapper](https://github.com/bgdnvk/webScrapper)
+#### [📖 Java and Spring Boot blog series 📖](https://bognov.tech/series/spring-boot)  
+
+## Random and old stuff  
+#### [Ruby on Rails full-stack blog site](https://github.com/bgdnvk/ror-blog)
+#### [RoR fullstack test app](https://github.com/bgdnvk/ror-tests)
+#### [Flutter old messenger](https://github.com/bgdnvk/flutter-messenger)
+#### [LUA scripts](https://github.com/bgdnvk/gtaScripts)  
+#### [Svelte old project](https://github.com/bgdnvk/cleanbrit)
+#### [Old JS exercises](https://github.com/bgdnvk/experisAcademy)
+#### [Deep Learning (Python) projects for my Udacity ML nanodegree](https://github.com/bgdnvk/deep-learning)
+#### [Old vanilla JS full stack web app for Udacity](https://github.com/bgdnvk/udacity-fend-capstone)
+
+# About me 👋 🇺🇦 🇪🇸 🇪🇺
+I'm Bog, originally from Ukraine 🇺🇦 but I'm a Spaniard now.  
+Overall I define myself as a Full Stack Developer or Software Engineer and I have experience as a CTO as well. My interests include cross platform development, web development and the DevOps space. In the future I'd like to focus more on: TypeScript, Go and Rust. As well as learn more about ML.
 
 Additionally I also do stuff like [CodeWars](https://www.codewars.com/users/bgdnvk) and I'm involved in [Hope](http://proyectohope.centromedicodespierta.es/).
 
-Slowly working on my [BLOG](https://bognov.tech/) as well.
+I'm currently working on my [📚 BLOG 📚](https://bognov.tech/) as well. Which has been featured several times on Hashnode as well as daily.dev and Kubesimplify.
 
 Since the invasion of Russia in Ukraine I've been building an organization "AyudaUcrania" to spread awareness on how to help affected citizens and refugees. [If you know Spanish have a look.](https://ayudaucrania.org/) So far we are 4 people now.
 
