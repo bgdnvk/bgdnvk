@@ -11,7 +11,7 @@
 #### [Mini Twitter Clone](https://github.com/bgdnvk/mini-twitter-clone) check -> [📖 blog post 📖](https://bognov.tech/introduction-to-golang-build-a-mini-twitter-clone)
 
 ## Java + SpringBoot
-#### OSS stalled project and needs refactoring - [YouTube Crawler w/ SpringBoot](https://github.com/bgdnvk/vacflixbackend)
+#### OSS WIP stalled project that needs refactoring - [YouTube Crawler w/ SpringBoot](https://github.com/bgdnvk/vacflixbackend)
 #### [Excel Parser and scrapper w/ Java n JSoup](https://github.com/bgdnvk/hope)  
 #### [Masters exercises in Spanish](https://github.com/bgdnvk/msc-java-exercises)
 #### [Web Scrapper](https://github.com/bgdnvk/webScrapper)
