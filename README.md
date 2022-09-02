@@ -1,6 +1,6 @@
 # Blog: [📖 bognov.tech 📖](https://bognov.tech/)
 ## TypeScript + JavaScript 
-#### WIP project for my blog - [Pokédex web app w/ TS, React, Vite and TailwindCSS](https://github.com/bgdnvk/pokedex-ts-react-vite-tailwind)
+#### WIP project for my blog: article inc - [Pokédex web app w/ TS, React, Vite and TailwindCSS](https://github.com/bgdnvk/pokedex-ts-react-vite-tailwind)
 #### [NodeJS auth example w/ JWT and cookies: Express + Mongoose](https://github.com/bgdnvk/nodejs-auth) check -> [📖 blog post 📖](https://bognov.tech/nodejs-auth-jwt-cookies-express-mongoose-and-more)  
 #### [CodeWars, LeetCode and HackerRank solutions](https://github.com/bgdnvk/codewars)  
 #### [LeetCode arrays card solutions](https://github.com/bgdnvk/leetcode-arrays-101) check -> [📖 blog post 📖](https://bognov.tech/javascript-arrays-101-tips-and-tricks-ft-leetcode)  
