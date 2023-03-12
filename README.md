@@ -1,8 +1,8 @@
 # Blog: [📖 bognov.tech 📖](https://bognov.tech/)  
 
-# About: 
+<!-- # About: 
 
-Feel free to reach me on [Twitter](https://twitter.com/tekbog) or [LinkedIn](https://www.linkedin.com/in/bogdan-novykov/).
+Feel free to reach me on [Twitter](https://twitter.com/tekbog) or [LinkedIn](https://www.linkedin.com/in/bogdan-novykov/). -->
 
 ## 💻 Fun 💻
 
