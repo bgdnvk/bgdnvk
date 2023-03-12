@@ -1,5 +1,23 @@
-# Blog: [📖 bognov.tech 📖](https://bognov.tech/)
-## TypeScript + JavaScript 
+# Blog: [📖 bognov.tech 📖](https://bognov.tech/)  
+
+# About: 
+
+Feel free to reach me on [Twitter](https://twitter.com/tekbog) or [LinkedIn](https://www.linkedin.com/in/bogdan-novykov/).
+
+## 💻 Fun 💻
+
+[LeetCode](https://leetcode.com/bgdnvk/)
+
+[CodeWars](https://www.codewars.com/users/bgdnvk)  
+
+[HackerRank](https://www.hackerrank.com/bnovykov) 
+
+<a>
+ <img align="center" src="https://www.codewars.com/users/bgdnvk/badges/large" />
+</a>
+
+
+<!-- ## TypeScript + JavaScript 
 #### WIP project for my blog: article inc - [Pokédex web app w/ TS, React, Vite and TailwindCSS](https://github.com/bgdnvk/pokedex-ts-react-vite-tailwind)
 #### [NodeJS auth example w/ JWT and cookies: Express + Mongoose](https://github.com/bgdnvk/nodejs-auth) check -> [📖 blog post 📖](https://bognov.tech/nodejs-auth-jwt-cookies-express-mongoose-and-more)  
 #### [CodeWars, LeetCode and HackerRank solutions - this also includes other languages](https://github.com/bgdnvk/codewars)  
@@ -65,21 +83,7 @@ Google Cloud Platform: Architecting with Google Compute Engine @ Coursera
 [Full Stack Open](https://fullstackopen.com/en/) 
 
 [Front End Libraries](https://www.freecodecamp.org/learn/front-end-libraries/) 
-
-
-## 💻 Fun 💻
-[HackerRank](https://www.hackerrank.com/bnovykov) 
-
-[LeetCode](https://leetcode.com/bgdnvk/)
-
-[CodeWars](https://www.codewars.com/users/bgdnvk)  
-
-<a>
- <img align="center" src="https://www.codewars.com/users/bgdnvk/badges/large" />
-</a>
-
-
-
+ -->
 
 <!--
 **bgdnvk/bgdnvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
