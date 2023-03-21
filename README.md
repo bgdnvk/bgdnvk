@@ -1,4 +1,5 @@
 # Blog: [📖 bognov.tech 📖](https://bognov.tech/)  
+opinions/thoughts/music/memes/etc: [substack](https://bogdannovykov.substack.com/)
 
 <!-- # About: 
 
