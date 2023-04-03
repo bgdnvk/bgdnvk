@@ -5,7 +5,7 @@ opinions/thoughts/music/memes/etc: [substack](https://bogdannovykov.substack.com
 
 Feel free to reach me on [Twitter](https://twitter.com/tekbog) or [LinkedIn](https://www.linkedin.com/in/bogdan-novykov/). -->
 
-## 💻 Fun 💻  
+## 💻 DSA Fun 💻  
 
 [DSA solutions repo (leetcode, codewars, hackerrank and others)](https://github.com/bgdnvk/codewars)  
 
