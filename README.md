@@ -1,4 +1,8 @@
-<img src="https://media3.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="auto" height="auto" style="display: inline;">
+<img src="https://media3.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="auto" height="auto" style="display: inline;">  
+
+make it work;    
+make it right;  
+make it fast;
 
 # Blog: [📖 bognov.tech 📖](https://bognov.tech/)  
 opinions/thoughts/music/memes/etc: [substack](https://bogdannovykov.substack.com/)
