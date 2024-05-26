@@ -1,31 +1,19 @@
-<img src="https://media3.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="auto" height="auto" style="display: inline;">  
+<img src="https://media3.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="auto" height="200" style="display: inline;">  
+make it work; make it right; make it fast; 
 
-make it work;    
-make it right;  
-make it fast;
-
-# Blog: [📖 bognov.tech 📖](https://bognov.tech/)  
-opinions/thoughts/music/memes/etc: [substack](https://bogdannovykov.substack.com/)
+### blog: [📖 bognov.tech 📖](https://bognov.tech/)  
+[substack w/ random thoughts](https://bogdannovykov.substack.com/)
 
 <!-- # About: 
 
 Feel free to reach me on [Twitter](https://twitter.com/tekbog) or [LinkedIn](https://www.linkedin.com/in/bogdan-novykov/). -->
+ 
+[npm open source packages](https://www.npmjs.com/~tekbog)  
 
-## Open Source/packages  
-[npm profile](https://www.npmjs.com/~tekbog)  
-PRs always welcome  
-
-## 💻 DSA Fun 💻  
+#### 💻 DSA Fun 💻  
 
 [DSA solutions repo (leetcode, codewars, hackerrank and others)](https://github.com/bgdnvk/codewars)  
-
-### LC Grind profiles
-
-[LeetCode](https://leetcode.com/bgdnvk/)
-
-[CodeWars](https://www.codewars.com/users/bgdnvk)  
-
-[HackerRank](https://www.hackerrank.com/bnovykov) 
+[LeetCode](https://leetcode.com/bgdnvk/), [CodeWars](https://www.codewars.com/users/bgdnvk) n [HackerRank](https://www.hackerrank.com/bnovykov) 
 
 <a>
  <img align="center" src="https://www.codewars.com/users/bgdnvk/badges/large" />
