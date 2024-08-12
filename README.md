@@ -17,8 +17,8 @@
  ```
 ~ [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html)
 
-<img src="https://media3.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="auto" height="200" style="display: inline;">  
-make it work; make it right; make it fast;  
+<img src="https://media3.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="auto" height="90" style="display: inline;">  
+make it work; make it right; make it fast;
 
 
 <!-- 
