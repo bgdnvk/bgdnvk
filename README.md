@@ -1,12 +1,33 @@
-<img src="https://media3.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="auto" height="200" style="display: inline;">  
-make it work; make it right; make it fast; 
 
+   
+```
+     Real Programmers write in FORTRAN.
+ 
+ Maybe they do now,
+ in this decadent era of
+ Lite beer, hand calculators, and “user-friendly” software
+ but back in the Good Old Days,
+ when the term “software” sounded funny
+ and Real Computers were made out of drums and vacuum tubes,
+ Real Programmers wrote in machine code.
+ Not FORTRAN.  Not RATFOR.  Not, even, assembly language.
+ Machine Code.
+ Raw, unadorned, inscrutable hexadecimal numbers.
+ Directly.
+ ```
+~ [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html)
+
+<img src="https://media3.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="auto" height="200" style="display: inline;">  
+make it work; make it right; make it fast;  
+
+
+<!-- 
 ### blog: [📖 bognov.tech 📖](https://bognov.tech/)  
 [substack w/ random thoughts](https://bogdannovykov.substack.com/)
 
-<!-- # About: 
+# About: 
 
-Feel free to reach me on [Twitter](https://twitter.com/tekbog) or [LinkedIn](https://www.linkedin.com/in/bogdan-novykov/). -->
+Feel free to reach me on [Twitter](https://twitter.com/tekbog) or [LinkedIn](https://www.linkedin.com/in/bogdan-novykov/).
  
 [npm open source packages](https://www.npmjs.com/~tekbog)  
 
@@ -49,56 +70,3 @@ Feel free to reach me on [Twitter](https://twitter.com/tekbog) or [LinkedIn](htt
 #### [Old JS exercises](https://github.com/bgdnvk/experisAcademy)
 #### [Deep Learning (Python) projects for my Udacity ML nanodegree](https://github.com/bgdnvk/deep-learning)
 #### [Old vanilla JS full stack web app for Udacity](https://github.com/bgdnvk/udacity-fend-capstone)
-
-# About me 👋 🇺🇦 🇪🇸 🇪🇺
-I'm Bog, originally from Ukraine 🇺🇦 but I'm a Spaniard now.  
-Overall I define myself as a Full Stack Developer or Software Engineer and I have experience as a CTO as well. My interests include cross platform development, web development and the DevOps space. In the future I'd like to focus more on: TypeScript, Go and Rust. As well as learn more about ML.
-
-Additionally I also do stuff like [CodeWars](https://www.codewars.com/users/bgdnvk) and I'm involved in [Hope](http://proyectohope.centromedicodespierta.es/).
-
-I'm currently working on my [📚 BLOG 📚](https://bognov.tech/) as well. Which has been featured several times on Hashnode as well as daily.dev and Kubesimplify.
-
-Since the invasion of Russia in Ukraine I've been building an organization "AyudaUcrania" to spread awareness on how to help affected citizens and refugees. [If you know Spanish have a look.](https://ayudaucrania.org/) So far we are 4 people now.
-
-More personal info: used to spend a lot of time in Denmark prior to Covid, almost moved there and to another scandi country but the weather is too good in Spain. I'm open to travel or work from anywhere. 
-
-Before getting fully into the tech path I was doing a degree in philosophy, hopefully in the future I will have enough time to finish it.
-I'm very curious, this means I enjoy talking with different people about different topics, as this broadens my horizons, so feel free to reach me on [Twitter](https://twitter.com/tekbog) or [LinkedIn](https://www.linkedin.com/in/bogdan-novykov/).
-## 🎓 Certs 🎓
-#### Nanodegrees
-[Front End Developer](https://confirm.udacity.com/6V3TCRCC)
-
-[Deep Learning](https://confirm.udacity.com/JYDXSXTQ) 
-
-[Android Developer](https://confirm.udacity.com/RA9QAPDU) 
-
-#### Others
-Msc. Web Dev focused on Java Back End @ UNED
-
-Google Cloud Platform: Architecting with Google Compute Engine @ Coursera
-
-[Responsive Web Design](https://www.freecodecamp.org/certification/bgdnvk/responsive-web-design) 
-
-[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/bgdnvk/javascript-algorithms-and-data-structures) 
-
-### Working on
-
-[Full Stack Open](https://fullstackopen.com/en/) 
-
-[Front End Libraries](https://www.freecodecamp.org/learn/front-end-libraries/) 
- -->
-
-<!--
-**bgdnvk/bgdnvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
